@@ -9,13 +9,13 @@
 }
 
 .avatar {
-  flex: 0 0 96px;
-  width: 96px;
-  height: 96px;
+  flex: 0 0 240px;
+  width: 240px;
+  height: 240px;
   margin: 0;
-  border-radius: 5px;
+  border-radius: 10px;
   border-width: thick;
-  border-color: black;
+  border-color: white;
 }
 
 .description {
